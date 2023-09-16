@@ -1,0 +1,2 @@
+first bug is fixed
+second bug is fixed
